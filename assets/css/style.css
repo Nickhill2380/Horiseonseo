@@ -80,6 +80,8 @@ p {
     width: 20%;
     height: 100%;
     background-color: #2589bd;
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 
 .benefits h2{
@@ -88,34 +90,13 @@ p {
     margin-top: 20px;
 }
 
-.benefits {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.content div{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
