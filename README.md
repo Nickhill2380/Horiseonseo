@@ -1,5 +1,11 @@
 # Horiseonseo
 
+## Description
+
+This project was about taking an existing html and css file and improving their accessibility. 
+
+I have done that by doing the following:
+
 Changed the title so it would display company name "Horiseon" this helps with google search visibility. 
 
 Added alt attributes to the images for improved performance for screen readers. 
